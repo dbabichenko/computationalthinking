@@ -37,6 +37,7 @@ No prior programming skills?  No problem! The Computational Thinking workshop is
 |------------|--------------------|
 |SpaceInvaders|Basic programming concepts, algorithms, code structure, etc...|
 |Federalist papers|Variables, lists, control structures, for loop, reading text files|
+|BMI calculator|Variables, arithmetic operations, typecasting, user input|
 |Hangman|Variables, lists, control structures, while loop|
 |Prisoner's dilemma| |
 |Simple substitution cypher|Variables, string operations, lists, control structures, for loop |
