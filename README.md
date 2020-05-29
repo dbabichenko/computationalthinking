@@ -31,6 +31,53 @@ No prior programming skills?  No problem! The Computational Thinking workshop is
 * Web Scraping
   * BeautifulSoup, MechanicalSoup
   * TwitterBots
+  
+## Problem Sets / Examples
+|Problem     |Concepts Illustrated|
+|------------|--------------------|
+|SpaceInvaders|Basic programming concepts, algorithms, code structure, etc...|
+
+
+
+Federalist papers
+Variables, lists, control structures, for loop, reading text files
+Y
+Hangman
+Variables, lists, control structures, while loop
+N
+Prisoner’s dilemma
+
+
+N
+Simple substitution cypher
+Variables, string operations, lists, control structures, for loop
+Y
+Family tree
+Pandas dataframes, querying, merging dataframes
+N
+Interest rate calculator
+Variables, control structures, loops
+N
+Rock, paper, scissors
+Variables, lists, randomization
+N
+Pig latin translator
+Variables, string operations, lists
+N
+Palindrome
+Variables, lists, control structures, for loop
+Y
+Anagram
+Variables, lists, control structures, loops, text file I/O, dictionaries
+Y
+Tic-tac-toe
+
+
+N
+Jumble puzzle creator
+Variables, text file I/O, querying, string operations
+N
+
 
 
 
