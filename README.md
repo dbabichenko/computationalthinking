@@ -40,8 +40,8 @@ No prior programming skills?  No problem! The Computational Thinking workshop is
 |BMI calculator|Variables, arithmetic operations, typecasting, user input|
 |Hangman|Variables, lists, control structures, while loop|
 |Prisoner's dilemma| |
-|Simple substitution cypher|Variables, string operations, lists, control structures, for loop |
-|Caesar's cypher | |
+|Simple substitution cypher|Variables, string operations, list data structure, control structures, for loop |
+|Caesar's cypher |Variables, string operations, list data structure, control structures, for loop |
 |Family tree | |
 |Interest rate calculator | Variables, control structures, loops |
 |Rock, paper, scissors | Variables, lists, randomization |
