@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>Links Examples</title>
+</head>
+
+<body>
+	<p>
+	Link to an external site - note that you must use full URLs, including the protocol (http or https)
+	</p>
+	<a href="http://www.google.com">Link to Google search page</a>
+	<xmp><a href="http://www.google.com">Link to Google search page</a></xmp>
+	<a href="https://www.facebook.com/index.php">Link to Facebook home page</a>
+	<xmp><a href="https://www.facebook.com/index.php">Link to Facebook home page</a></xmp>
+	
+	<hr />
+	
+	
+	<p>
+	Most web servers (Apache, IIS, Glassfish) assume that the starting page for your web application 
+	is called "index.html" (or "index.php", or "index.whateverextension").  Even if you don't specify the file name
+	in the URL, the link will still work.
+	</p>
+	<a href="https://www.facebook.com/index.php">Link to Facebook home page with "index.php" specified</a>
+	<xmp><a href="https://www.facebook.com/index.php">Link to Facebook home page with "index.php" specified</a></xmp>
+	<a href="https://www.facebook.com/">Link to Facebook home page without "index.php" specified</a>
+	<xmp><a href="https://www.facebook.com/">Link to Facebook home page without "index.php" specified</a></xmp>
+	
+	<hr />
+	
+	<p>
+	Relative link / URL to a page called "child.html".  In order for this link to work, "child.html" file
+	must be in the same directory as this file (links.html)
+	</p>
+	<a href="child.html">Relative link to a local file</a>
+	<xmp><a href="child.html">Relative link to a local file</a></xmp>
+	
+	<hr />
+	
+	<p>
+	Relative link / URL to a page called "subchild.html" located in a subfolder called "children".  In order for this 
+	link to work, subfolder "children" must be in the same directory as this file (links.html).  "subchild.html" must be inside 
+	the "children" subfolder
+	</p>
+	<a href="children/subchild.html">Relative link to a file inside a subfolder</a>
+	<xmp><a href="children/subchild.html">Relative link to a file inside a subfolder</a></xmp>
+	
+	<hr />
+	
+	<p>
+	../ notation is used to move UP in the file structure - to link to a file that is located a level up from the file containing the link.
+	The link below will go one folder up in the directory structure and locate a file called "parent.html".
+	</p>
+	<a href="../parent.html">../ notation example</a>
+	<xmp><a href="../parent.html">../ notation example</a></xmp>
+	
+	<p>
+	Similarly, ../../ will move two levels up in the file structure.  
+	</p>
+	
+	<hr />
+	
+	
+	
+	
+	
+	
+</body>
+</html>
