@@ -48,12 +48,7 @@ No prior programming skills?  No problem! The Computational Thinking workshop is
 |Palindrome | Variables, lists, control structures, for loop |
 |Anagram | Variables, lists, control structures, loops, text file I/O, dictionaries |
 |Tic-tac-toe | |
-
-
-N
-Jumble puzzle creator
-Variables, text file I/O, querying, string operations
-N
+|Jumble puzzle creator | Variables, text file I/O, querying, string operations| 
 
 
 
