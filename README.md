@@ -12,35 +12,25 @@ No prior programming skills?  No problem! The Computational Thinking workshop is
 
 * Introduction to algorithmic thinking
   * Programming without Programming (Scratch)
-* Variables
-* Boolean Logic
-* Control Structures
-* Lists
-* Dictionaries
-* Loops
-* Functions
-* Error Handling
-* Reading Text Files
-
-
-HTML
-
-
-Document Object Model (DOM)
-
-
-JavaScript
-
-
-JSON
-
-
-Web architecture, RESTful API
-
-
-Web Scraping
-BeautifulSoup, MechanicalSoup
-TwitterBots
+* Introduction to Python
+  * Variables
+  * Boolean Logic
+  * Control Structures
+  * Lists
+  * Dictionaries
+  * Loops
+  * Functions
+  * Error Handling
+  * Reading Text Files
+* Introduction to web technologies
+  * HTML
+  * Document Object Model (DOM)
+  * JavaScript
+  * JSON
+  * Web architecture, RESTful API
+* Web Scraping
+  * BeautifulSoup, MechanicalSoup
+  * TwitterBots
 
 
 
