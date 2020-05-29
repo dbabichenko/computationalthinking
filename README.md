@@ -36,41 +36,18 @@ No prior programming skills?  No problem! The Computational Thinking workshop is
 |Problem     |Concepts Illustrated|
 |------------|--------------------|
 |SpaceInvaders|Basic programming concepts, algorithms, code structure, etc...|
-
-
-
-Federalist papers
-Variables, lists, control structures, for loop, reading text files
-Y
-Hangman
-Variables, lists, control structures, while loop
-N
-Prisoner’s dilemma
-
-
-N
-Simple substitution cypher
-Variables, string operations, lists, control structures, for loop
-Y
-Family tree
-Pandas dataframes, querying, merging dataframes
-N
-Interest rate calculator
-Variables, control structures, loops
-N
-Rock, paper, scissors
-Variables, lists, randomization
-N
-Pig latin translator
-Variables, string operations, lists
-N
-Palindrome
-Variables, lists, control structures, for loop
-Y
-Anagram
-Variables, lists, control structures, loops, text file I/O, dictionaries
-Y
-Tic-tac-toe
+|Federalist papers|Variables, lists, control structures, for loop, reading text files|
+|Hangman|Variables, lists, control structures, while loop|
+|Prisoner's dilemma| |
+|Simple substitution cypher|Variables, string operations, lists, control structures, for loop |
+|Caesar's cypher | |
+|Family tree | |
+|Interest rate calculator | Variables, control structures, loops |
+|Rock, paper, scissors | Variables, lists, randomization |
+|Pig latin translator | Variables, string operations, lists |
+|Palindrome | Variables, lists, control structures, for loop |
+|Anagram | Variables, lists, control structures, loops, text file I/O, dictionaries |
+|Tic-tac-toe | |
 
 
 N
