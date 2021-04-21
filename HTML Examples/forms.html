@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>HTML Forms</title>
+</head>
+
+<body>
+	<form name="frmExampleForm" id="frmExampleForm" method="post" action="">
+		<p>
+		This is an example of a text field - a field that accepts a single line of text as input.  
+		Note that "width" attribute specifies how many columns of text (each column has the width of one letter) 
+		will be visible without scrolling.  
+		</p>
+		<input type="text" name="txtTextField" id="txtTextField" value="Default text" width="100" />
+		<xmp>
+			<input type="text" name="txtTextField" id="txtTextField" value="Default text" />
+		</xmp>
+		
+		<hr />
+		
+		
+		<p>
+		This is an example of a text area - a field that accepts multiple lines of text as input.  Note that "rows" attribute specifies how many rows of 
+		text will be visible without scrolling and "cols" attribute specifies how many columns of text (each column has the width of one letter) 
+		will be visible without scrolling.
+		</p>
+		<textarea name="txtTextArea" id="txtTextArea" rows="5" cols="50">Default text</textarea>
+		<xmp>
+			<textarea name="txtTextArea" id="txtTextArea" rows="5" cols="50">Default text</textarea>
+		</xmp>
+		
+		<hr />
+		
+		<p>
+		This is an example of a combo box, aka dropdown list.
+		</p>
+		<select name="cboComboBox" id="cboComboBox">
+			<option value="1">Value 1</option>
+			<option value="2">Value 2</option>
+			<option value="3">Value 3</option>
+			<option value="4">Value 4</option>
+			<option value="5">Value 5</option>
+		</select>
+		<xmp>
+			<select name="cboComboBox" id="cboComboBox">
+				<option value="1">Value 1</option>
+				<option value="2">Value 2</option>
+				<option value="3">Value 3</option>
+				<option value="4">Value 4</option>
+				<option value="5">Value 5</option>
+			</select>
+		</xmp>
+		
+		<hr />
+		
+		<p>
+		This is an example of a checkbox
+		</p>
+		<input type="checkbox" name="chkCheckbox" id="chkCheckbox" checked="true" />&nbsp;This text is just a label to go next to the checkbox
+		<xmp>
+			<input type="checkbox" name="chkCheckbox" id="chkCheckbox" checked="true" />
+		</xmp>
+		
+		<hr />
+		
+		<p>
+		This is an example of radiobutton controls.  Please note that all these controls have different id attributes, but identical name attributes.  
+		This allows only one radiobutton to be selected at a time.  If you want radiobuttons to be independent of each other, give their name attribues
+		different values
+		</p>
+		<input type="radio" name="radRadioButton" id="radRadioButton1" checked="true" />&nbsp;Label for radiobutton 1<br />
+		<input type="radio" name="radRadioButton" id="radRadioButton2" />&nbsp;Label for radiobutton 2<br />
+		<input type="radio" name="radRadioButton" id="radRadioButton3" />&nbsp;Label for radiobutton 3
+		<xmp>
+		<input type="radio" name="radRadioButton" id="radRadioButton1" checked="true" /><br />
+		<input type="radio" name="radRadioButton" id="radRadioButton2" /><br />
+		<input type="radio" name="radRadioButton" id="radRadioButton3" />
+		</xmp>
+		
+		<hr />
+		
+		<p>
+		This is an example of a regular HTML button.  This button needs an event handler in order to perform a useful function.  It DOES NOT submit the form
+		</p>
+		<input type="button" name="btnButton" id="btnButton" value="Regular HTML Button" />
+		<xmp>
+			<input type="button" name="btnButton" id="btnButton" value="Regular HTML Button" />
+		</xmp>
+		
+		<hr />
+		
+		
+		<p>
+		This is an example of a submit button.  This button will send form information to a web page specified in the ACTION attribute of the form
+		</p>
+		<input type="submit" name="btnSubmit" id="btnSubmit" value="Submit Button" />
+		<xmp>
+			<input type="submit" name="btnSubmit" id="btnSubmit" value="Submit Button" />
+		</xmp>
+		
+		
+		<hr />
+		
+		
+		<p>
+		This is an example of a password field.  Password field looks like a regular text field, but when you start typing characters into it, they appear as asterisks (*).
+		</p>
+		<input type="password" name="txtPassword" id="txtPassword" />
+		<xmp>
+			<input type="password" name="txtPassword" id="txtPassword" />
+		</xmp>
+		
+	</form>	
+</body>
+</html>
