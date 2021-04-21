@@ -1,0 +1,30 @@
+1-800-515-9185
+
+
+
+
+94481707595
+
+dm9DY3ZQRTJFbGkvUHdjUTdjMXdydz09
+
+
+
+https://learningtechlab.visualstudio.com/NeedleAR/_git/NeedleAR
+learningtechlab@vs-ssh.visualstudio.com:v3/learningtechlab/NeedleAR/NeedleAR
+
+
+DMB72
+qp5tybvxm3u7a4uuqterf7yqpo25mh5ihvoadd7izdn725pwlt5a
+5cvuoeuh7iuv4nk7ghdku6jg5fquwd6vewtvtmh2g22ayyn2isnq
+
+
+git remote add origin https://learningtechlab.visualstudio.com/NeedleAR/_git/NeedleAR
+git push -u origin --all
+
+
+git remote add origin learningtechlab@vs-ssh.visualstudio.com:v3/learningtechlab/NeedleAR/NeedleAR
+git push -u origin --all
+
+
+
+
